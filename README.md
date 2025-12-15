@@ -23,7 +23,7 @@ I like Anime, Reading Math related books (obssesd with Calculus) and sources, Pl
 
 ## Current Work
 
-* **Project EVA** — an AI-powered desktop assistant (Electron + Go + local LLMs)
+* **Project EVA** — an AI-powered desktop assistant (Electron + Node + local LLMs)
 * Experimenting with efficient local LLM inference and real-time audio processing
 
 ---
