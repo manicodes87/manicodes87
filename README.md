@@ -1,6 +1,6 @@
 # Hi — I’m Mani 👋
 
-I build practical desktop and web applications with an emphasis on Coolness, AI, local-first tooling, and clean architecture.
+I build practical desktop and web applications with an emphasis on Coolness, local-first tooling, and clean architecture.
 
 ---
 
@@ -36,6 +36,14 @@ I like Anime, Reading Math related books (obssesd with Calculus) and sources, Pl
 
 * Cross-platform assistant combining realtime audio, local model inference, and system integrations.
 * Key: modular core, strong IPC boundaries, reproducible dev environment.
+
+### DSAViz — `manicodes87/DSAViz`
+
+* A web-app used to visualise Data structures and algorithms with smooth animations
+
+### TCC — `manicodes87/Time-Complexity-Compiler-TCC`
+
+* An Electron Application that can calculate the time complexity of a given code snippet
   
 ---
 
